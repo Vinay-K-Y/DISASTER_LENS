@@ -1,0 +1,34 @@
+[
+  {
+    "author_id": "1111111111111111111",
+    "timestamp": "2025-07-28T14:00:00.000Z",
+    "text": "Massive waterlogging in Koramangala, Bengaluru after the heavy downpour. Traffic is a nightmare.",
+    "extracted_location": "bengaluru",
+    "disaster_type": "Flood",
+    "image_url": "https://example.com/images/flood.jpg"
+  },
+  {
+    "author_id": "2222222222222222222",
+    "timestamp": "2025-07-28T14:05:00.000Z",
+    "text": "Just saw thick smoke coming from a building near MG Road. Looks like a serious fire in Bengaluru.",
+    "extracted_location": "bengaluru",
+    "disaster_type": "Fire",
+    "image_url": "N/A"
+  },
+  {
+    "author_id": "3333333333333333333",
+    "timestamp": "2025-07-28T14:10:00.000Z",
+    "text": "The Andheri subway in Mumbai is completely flooded again. Public transport has been severely affected. #MumbaiRains",
+    "extracted_location": "Mumbai",
+    "disaster_type": "Flood",
+    "image_url": "https://example.com/images/mumbai_rains.jpg"
+  },
+  {
+    "author_id": "4444444444444444444",
+    "timestamp": "2025-07-28T14:12:00.000Z",
+    "text": "The ring road is completely gridlocked. This traffic disaster in Bangalore is getting worse every day.",
+    "extracted_location": "Bangalore",
+    "disaster_type": "Traffic",
+    "image_url": "N/A"
+  }
+]
